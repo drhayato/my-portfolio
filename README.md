@@ -1,4 +1,4 @@
-# Hayato's Portfolio
+# Shivansh's Portfolio
 
 A modern, responsive personal portfolio website showcasing my skills, experience, and projects. Built with HTML, CSS, and JavaScript.
 
@@ -90,4 +90,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by **Hayato**
+Made with ❤️ by **Shivansh**
