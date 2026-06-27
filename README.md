@@ -57,27 +57,6 @@ python -m http.server 8000
 
 Then visit [http://localhost:8000](http://localhost:8000)
 
-## 📁 Folder Structure
-
-```
-my-portfolio/
-├── css/
-├── img/
-├── js/
-├── lib/
-├── mail/
-├── resume/
-├── scss/
-└── index.html
-```
-
-## 🔧 Customize
-
-* **Colors**: Edit in `css/custom.css`
-* **Images & Info**: Customize in `index.html`
-* **Skills & Progress Bars**: Edit directly in the skills section HTML
-* **Contact Form**: Uses Formspree.io
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
